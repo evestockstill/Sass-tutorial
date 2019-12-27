@@ -1,0 +1,22 @@
+{
+  "name": "css-practice-udemy",
+  "version": "1.0.0",
+  "description": "landing point for natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evestockstill/css-practice-udemy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evestockstill/css-practice-udemy/issues"
+  },
+  "homepage": "https://github.com/evestockstill/css-practice-udemy#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
